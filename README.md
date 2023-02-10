@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Quick introduction
+- data analyst at Nectar360 (UK's largest loyalty program) using SQL, Python and AWS
+- coded student life app for my university in React Native
+- assisted in econometric research into behavioural economics using Python and Google GDelt (12 TB)
+
+### Currently working on
+- Quantitative finance projects, these will appear below
+
 <!--
 **JesLied/jeslied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
