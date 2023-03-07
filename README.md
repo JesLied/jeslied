@@ -3,7 +3,7 @@
 ### Quick introduction
 - data analyst at Nectar360 (UK's largest loyalty program) using SQL, Python and AWS
 - coded student life app for my university in React Native
-- assisted in econometric research into behavioural economics using Python and Google GDelt (12 TB)
+- assisted financial econometric research in behavioural effects on the 1920's crash using Python and Google GDelt (12 TB)
 
 ### Currently working on
 - Quantitative finance projects, these will appear below
