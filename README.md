@@ -1,12 +1,21 @@
 ### Hi there 👋
 
 ### Quick introduction
-- data analyst at Nectar360 (UK's largest loyalty program) using SQL, Python and AWS
-- coded student life app for my university in React Native
-- assisted financial econometric research in behavioural effects on the 1920's crash using Python and Google GDelt (12 TB)
+- MSc Advanced Economics and Finance student at Copenhagen Business School
+- Experienced Python, JavaScript and SQL programmer
 
-### Currently working on
-- Quantitative finance projects, these will appear below
+### Projects
+- Statistical Arbitrage
+  - I have identified a possible set of trading strategies using cointegration. Initially I found that cointegration is not statistically viable. But after changing the tests, and making them more restrictive I have been able to find historically viable strategies that I am now testing.
+- Simulated Exchange Platform
+  - I wanted to test my trading strategies in real life using paper trading. However, I wasn't able to find any test platform that provided a good representation of the real orderbook. So I created a simpler local simulated exchange platform based on real order books. That I can interact with using a REST API.
+
+
+### Previous Experiences
+- Senior Decision Analyst, Barclays UK
+- Associate Analyst, Nectar360 UK
+- Econometrics Research Assistant, The University of Buckingham UK
+- Co-Founder Campus42, UK
 
 <!--
 **JesLied/jeslied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
