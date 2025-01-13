@@ -16,6 +16,7 @@ Me and two of my friends noticed a large dissatisfaction from students on how th
 
 The project was well received, and we were in full collaboration with the university. Additionally we were in talks with the largest IT provider for universities in the UK, who were interested in integrating our idea into their product.
 
+I was the only programmer.
 https://github.com/Campus-42
 
 ### Previous Experiences
