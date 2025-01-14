@@ -11,12 +11,15 @@ I have identified a possible set of trading strategies using cointegration. Init
 #### Simulated Exchange Platform
 I wanted to test my trading strategies in real life using paper trading. However, I wasn't able to find any test platform that provided a good representation of the real orderbook. So I created a simpler local simulated exchange platform based on real order books. That I can interact with using a REST API.
 
+https://github.com/JesLied/Local-Exchange
+
 #### Campus42 (Social Campus App)
 Me and two of my friends noticed a large dissatisfaction from students on how the university promoted events and societies. So we created a social app that consolidated everything social that happened on campus in one app. We also added a points system to incentivize student engagement.
 
 The project was well received, and we were in full collaboration with the university. Additionally we were in talks with the largest IT provider for universities in the UK, who were interested in integrating our idea into their product.
 
 I was the only programmer.
+
 https://github.com/Campus-42
 
 ### Previous Experiences
